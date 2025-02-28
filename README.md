@@ -1,2 +1,2 @@
-# Projeto de Software
-Aula Pratica
+# Projeto de Software Avancado
+Roteiro de Aula Pratica
